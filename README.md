@@ -2,6 +2,10 @@
 
 Open source deep researcher that also thinks based on `OpenAI DeepResearch. This automates online research using **DeepSeek-R1** via [Nebius AI Studio](https://dub.sh/AIStudio) and [Exa](https://exa.ai/) search APIs. It continuously generates search queries, extracts relevant content, evaluates information and produces a comprehensive research report based on all relevant information collected.
 
+Watch demo video on [Youtube](https://youtu.be/aEOu9P4_2cU?si=SnAHPn-34C5FX4oS)
+
+![Open-DeepThink-Researcher](https://github.com/user-attachments/assets/a0f93ac4-3da2-4648-b522-5445d23c90c4)
+
 ## Features
 
 * **Automated Research**: Uses AI to generate search queries and evaluate results.
