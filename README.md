@@ -4,6 +4,8 @@ Open source deep researcher that also thinks based on `OpenAI DeepResearch. This
 
 Watch demo video on [Youtube](https://youtu.be/aEOu9P4_2cU?si=SnAHPn-34C5FX4oS)
 
+You can run this deep researcher using this [Google Colab](https://colab.research.google.com/drive/1MUKaQocLT4kP82u1PlPxUIcxPHD8cfwm?usp=sharing)
+
 ![Open-DeepThink-Researcher](https://github.com/user-attachments/assets/a0f93ac4-3da2-4648-b522-5445d23c90c4)
 
 ## Features
@@ -43,10 +45,6 @@ Before running the researcher, set up your API keys in the notebook:
 NEBIUS_API_KEY = "your_nebius_api_key"  # Replace with your Nebius API key
 EXA_API_KEY = "your_exa_api_key"  # Replace with your EXA API key
 ```
-
-## Usage
-
-You can run the research assistant either via a function call or using this [Google Colab](https://colab.research.google.com/drive/1MUKaQocLT4kP82u1PlPxUIcxPHD8cfwm?usp=sharing)
 
 ## Parameters
 
